@@ -1,0 +1,16 @@
+# 整个 Obsidian 配置目录（包含所有插件设置，避免密钥泄露）
+.obsidian/
+
+# 图床中转目录
+assets/
+
+# 每个子目录下的 vault 文件夹
+**/vault/
+
+# 回收站
+.trash/
+
+# 系统文件
+.DS_Store
+*.tmp
+*.bak
